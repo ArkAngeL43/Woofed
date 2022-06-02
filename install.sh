@@ -6,5 +6,6 @@ make all
 sudo make install
 cd ..
 sudo rm -rf PcapPlusPlus
+sudo make all
 echo "----------------------------------------------------------"
 echo "You are ready to go!"
